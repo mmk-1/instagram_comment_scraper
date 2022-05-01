@@ -1,0 +1,4 @@
+getComments.py
+test.py
+*.txt
+__pycache__
