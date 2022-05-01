@@ -5,4 +5,5 @@ To run:
 `
 py main.py [yourUsername] [password] [targetUsername]
 `
+  
 Going to be updated so that it gets all comments of the given number of posts.
